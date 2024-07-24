@@ -2,7 +2,7 @@
 
 # UNREAL ENGINE 5 BLUEPRINT
 
-link giới thiệu về game https://drive.google.com/file/d/1OMlAKsKtGyze523VWIxcsllLrf5f_KuZ/view?usp=sharing
+link giới thiệu về game https://youtu.be/xzmCfkrz5iY
 
 # ABOUT GAME 
 Bản demo một game building cơ bản có các chức năng:
